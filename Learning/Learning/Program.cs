@@ -9,6 +9,16 @@ namespace Learning
             var test = new Test();
             //lul
             test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            test.TestMethod();
+            
         }
     }
 }

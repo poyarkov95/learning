@@ -7,7 +7,7 @@ namespace Learning
 
         public void TestMethod()
         {
-            Console.WriteLine("Changes has been added!!!");
+            Console.WriteLine("Changes has bedded!!!");
             Console.WriteLine("Hello!!!");
         }
     }
