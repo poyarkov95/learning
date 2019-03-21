@@ -7,6 +7,7 @@ namespace Learning
         static void Main(string[] args)
         {
             var test = new Test();
+            //lul
             test.TestMethod();
         }
     }
